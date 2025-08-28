@@ -10,5 +10,11 @@
   },
   "dependencies": {
     "astro": "^5.13.3"
-  }
+  },
+  "description": "```sh pnpm create astro@latest -- --template minimal ```",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
