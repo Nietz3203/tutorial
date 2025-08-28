@@ -13,7 +13,9 @@
   },
   "description": "```sh pnpm create astro@latest -- --template minimal ```",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "unocss": "^66.4.2"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
